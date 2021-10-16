@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chetnaag95
 - 👀 I’m interested in logics, coding
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on React.js
 - 📫 How to reach me "chetnaag1995@gmail.com"
 
 <!---
